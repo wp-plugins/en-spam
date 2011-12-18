@@ -1,4 +1,4 @@
-=== Wordpress Hebrew Date ===
+=== En Spam ===
 Contributors: hatul
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4HTHWS3LGDDPJ
 Tags: anti-spam, antispam, block spam, bot, comment, comment spam, comments, spam, Spam Free, spambot, hebrew
@@ -16,6 +16,7 @@ Users that blocking cookies can to comment if they add code to thier comment .
 
 Plugin has a white list of languages ​​that are not spam and comments are automatically approved if it is the language of the blog.
 Whitelisted languages ​​currently:
+
 * Hebrew
 * Georgian
 
